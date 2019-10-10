@@ -7,7 +7,7 @@ O Teste não será simples, mas a idéia é validar até que ponto conseguirá c
 ## Instruções
 1. Clone este repositório, criando um novo projeto na sua conta do github
 2. Responda as questões do [teste](teorico.md) nos espaços reservados
-3. Desenvolva um projeto, seguindo a documentação da [míni aplicação](miniapp.md)
+3. Desenvolva um projeto, seguindo a documentação da [mini aplicação](miniapp.md)
 4. Ao terminar os testes, suba os arquivos para o seu repositório, preenchendo as informações solicitadas no [template](pull_request_template.md)
 5. Envie um e-mail para [thiago.brumano@plataforma13.com.br](mailto:thiago.brumano@plataforma13.com.br), com o link do repositório;
 
