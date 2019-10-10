@@ -3,15 +3,18 @@
 ### CSS
 
 1\) Na sua opinião, quais os melhores recursos para inclusão de imagens em um site/aplicação? 
-	E o que você acha interessante não utilizar?
-	Justifique levando em consideração boas práticas, estilização e formato de arquivos.
+E o que você acha interessante não utilizar?
+Justifique levando em consideração boas práticas, estilização e formato de arquivos.
 
 ```js
 // Resposta
 ```
 
 
-2\) Você conhece algum padrão/metodologia que auxilie a estilização de uma aplicação? Explique um pouco através de exemplos;
+
+
+2\) Você conhece algum padrão/metodologia que auxilie a estilização de uma aplicação? 
+Explique um pouco através de exemplos;
 
 
 ```js
@@ -19,11 +22,21 @@
 ```
 
 
-3\) Se tratando de aplicações responsivas, quais práticas/recursos você costuma utilizar? Tem algum exemplo que você não acha interessante?
+
+
+3\) Se tratando de aplicações responsivas, quais práticas/recursos você costuma utilizar? 
+Tem algum exemplo que você não acha interessante?
+
+
+```js
+// Resposta
+```
+
 
 
 
 4\) Analisando as tags e estilos abaixo, aponte os principais problemas encontrados e reescreva-os;
+
 **Leve em consideração que as tags abaixo estão no meio de uma página html qualquer**
 
 
@@ -114,7 +127,8 @@
 
 
 
-5\) Analisando os estilos em Nesting do código abaixo, descreva, caso exista, os problemas gerados e as possíveis soluções;
+
+5\) Analisando os estilos em `Nesting` do código abaixo, descreva, caso exista, os problemas gerados e as possíveis soluções;
 
 ```
     .form-holder {
@@ -148,9 +162,11 @@
     }
 
 ```
+
 ```js
 // Resposta
 ```
+
 
 
 ---
@@ -163,6 +179,8 @@
 ```js
 // Resposta
 ```
+
+
 
 
 2\) Quanto tempo vai demorar para o código a seguir imprimir "finished"? Justifique. (Levando em consideração que somePromise() vai retornar uma Promise resolvida)
@@ -196,6 +214,8 @@
 ```
 
 
+
+
 3\) O que o código a seguir imprime? (Levando em consideração que somePromise() vai retornar uma Promise resolvida)
 
 ```	
@@ -214,6 +234,8 @@
 ```js
 // Resposta
 ```
+
+
 
 4\) Melhore a função a seguir:
 
@@ -248,9 +270,12 @@
 
 ```
 
+
 ```js
 // Resposta
 ```
+
+
 
 5\) Dado um array de objetos, no qual cada objeto representa uma pessoa e possui as propriedades `name` e `age`, por exemplo:
 ```
@@ -272,7 +297,13 @@ Crie funções para:
 *Obs.: As funções criadas devem atender arrays de qualquer tamanho.*
 
 
-1\)Dado o seguinte trecho de código:
+```js
+// Resposta
+```
+
+
+
+6\)Dado o seguinte trecho de código:
 
 ```
 	const getDiscountTicket = (ticket, discount) => {
@@ -313,7 +344,7 @@ Explique o porquê dos preços estarem com o mesmo valor. E o que precisa ser al
 // Resposta
 ```
 
-3\) O que são, e como funcionam os lifecycles no AngularJs? Cite um exemplo de uso de pelo menos um método lifecycle.
+3\) O que são e como funcionam os lifecycles no AngularJs? Cite um exemplo de uso de pelo menos um método lifecycle.
 
 ```js
 // Resposta
@@ -325,7 +356,7 @@ Explique o porquê dos preços estarem com o mesmo valor. E o que precisa ser al
 // Resposta
 ```
 
-5\) Dado o nesting de componentes abaixo, indique a melhor forma do componente `<fourth-component>` se comunicar com `<first-component>`;
+5\) Dado o `Nesting` de componentes abaixo, indique a melhor forma do componente `<fourth-component>` se comunicar com `<first-component>`;
 
 ```
 	<first-component>
@@ -352,7 +383,7 @@ Explique o porquê dos preços estarem com o mesmo valor. E o que precisa ser al
 // Resposta
 ```
 
-2\) O que são, e como funcionam os lifecycles no ReactJs? Cite um exemplo de uso de pelo menos um método lifecycle.
+2\) O que são e como funcionam os lifecycles no ReactJs? Cite um exemplo de uso de pelo menos um método lifecycle.
 
 ```js
 // Resposta
